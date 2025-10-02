@@ -1,0 +1,17 @@
+{
+  "java.import.gradle.wrapper.enabled": true,
+  "java.import.gradle.java.home": "${env:JAVA_HOME}",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-17",
+      "path": "${env:JAVA_HOME}",
+      "default": true
+    }
+  ],
+  "java.import.gradle.arguments": [
+    "-x",
+    "lintVitalRelease"
+  ],
+  "kotlin.compiler.jvm.target": "1.8",
+  "gradle.nestedProjects": false
+}

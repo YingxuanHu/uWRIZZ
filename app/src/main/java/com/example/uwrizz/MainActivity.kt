@@ -2,9 +2,16 @@
 
 package com.example.uwrizz
 
-import UserDatabaseHelper
-import PreferencesScreen
-import SurveyScreen
+import com.example.uwrizz.data.UserDatabaseHelper
+import com.example.uwrizz.ui.screens.ChatScreen
+import com.example.uwrizz.ui.screens.CreateAccount
+import com.example.uwrizz.ui.screens.LoginScreen
+import com.example.uwrizz.ui.screens.MainContent
+import com.example.uwrizz.ui.screens.PreferencesScreen
+import com.example.uwrizz.ui.screens.ProfileSettingsScreen
+import com.example.uwrizz.ui.screens.SurveyScreen
+import com.example.uwrizz.ui.screens.UsersListScreen
+
 import android.content.Context
 import android.os.Bundle
 import android.util.Log

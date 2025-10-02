@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "vscjava.vscode-java-pack",
+    "fwcd.kotlin",
+    "ms-androidtools.vscode-android",
+    "ms-vscode.makefile-tools"
+  ]
+}

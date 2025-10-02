@@ -1,0 +1,3 @@
+# Copy this file to `local.properties` and update the path below so Gradle knows
+# where your Android SDK is installed. Never commit your local.properties file.
+sdk.dir=/Users/replace-with-your-username/Library/Android/sdk
